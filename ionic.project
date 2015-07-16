@@ -1,0 +1,13 @@
+{
+  "name": "BaseArch",
+  "app_id": "",
+  "gulpStartupTasks": [
+    "sass",
+    "watch",
+    "index"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}

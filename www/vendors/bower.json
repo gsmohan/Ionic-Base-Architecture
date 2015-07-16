@@ -1,0 +1,26 @@
+{
+  "name": "Base Plugins",
+  "version": "0.0.0",
+  "authors": [
+    "Mohan"
+  ],
+  "description": "List of plugins needed for future use like i18n/i10n ...",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-translate": "~2.7.2",
+    "angular-translate-loader-static-files": "~2.7.2"
+  }
+}

@@ -1,0 +1,1 @@
+var $authenticateModule = angular.module("authenticateModule", []);
